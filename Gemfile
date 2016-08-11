@@ -3,6 +3,7 @@ source "https://rubygems.org"
 ruby "2.3.1"
 
 gem "autoprefixer-rails"
+gem 'active_model_serializers', '~> 0.10.0'
 gem "delayed_job_active_record"
 gem "flutie"
 gem "honeybadger"
